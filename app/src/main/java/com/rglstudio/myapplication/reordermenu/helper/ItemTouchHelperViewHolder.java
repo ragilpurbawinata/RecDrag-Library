@@ -1,4 +1,4 @@
-package com.gamatechno.myapplication.reordermenu.helper;
+package com.rglstudio.myapplication.reordermenu.helper;
 
 public interface ItemTouchHelperViewHolder {
     void onItemSelected();

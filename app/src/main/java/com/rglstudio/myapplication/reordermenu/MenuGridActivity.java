@@ -1,4 +1,4 @@
-package com.gamatechno.myapplication.reordermenu;
+package com.rglstudio.myapplication.reordermenu;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,9 +6,9 @@ import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.helper.ItemTouchHelper;
 
-import com.gamatechno.myapplication.R;
-import com.gamatechno.myapplication.reordermenu.helper.OnStartDragListener;
-import com.gamatechno.myapplication.reordermenu.helper.SimpleItemTouchHelperCallback;
+import com.rglstudio.myapplication.R;
+import com.rglstudio.myapplication.reordermenu.helper.OnStartDragListener;
+import com.rglstudio.myapplication.reordermenu.helper.SimpleItemTouchHelperCallback;
 
 import java.util.ArrayList;
 import java.util.List;

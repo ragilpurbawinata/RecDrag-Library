@@ -1,6 +1,4 @@
-package com.gamatechno.myapplication.reordermenu;
-
-import java.util.ArrayList;
+package com.rglstudio.myapplication.reordermenu;
 
 public class ModelMenu {
     Integer icon;

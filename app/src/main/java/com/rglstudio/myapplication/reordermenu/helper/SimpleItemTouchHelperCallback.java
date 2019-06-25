@@ -1,4 +1,4 @@
-package com.gamatechno.myapplication.reordermenu.helper;
+package com.rglstudio.myapplication.reordermenu.helper;
 
 import android.graphics.Canvas;
 import android.support.v7.widget.GridLayoutManager;

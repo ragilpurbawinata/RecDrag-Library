@@ -1,4 +1,4 @@
-package com.gamatechno.myapplication;
+package com.rglstudio.myapplication;
 
 import org.junit.Test;
 

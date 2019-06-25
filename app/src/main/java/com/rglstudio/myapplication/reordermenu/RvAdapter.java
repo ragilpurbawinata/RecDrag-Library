@@ -1,4 +1,4 @@
-package com.gamatechno.myapplication.reordermenu;
+package com.rglstudio.myapplication.reordermenu;
 
 import android.annotation.SuppressLint;
 import android.support.annotation.NonNull;
@@ -11,9 +11,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.gamatechno.myapplication.R;
-import com.gamatechno.myapplication.reordermenu.helper.ItemTouchHelperAdapter;
-import com.gamatechno.myapplication.reordermenu.helper.OnStartDragListener;
+import com.rglstudio.myapplication.R;
+import com.rglstudio.myapplication.reordermenu.helper.ItemTouchHelperAdapter;
+import com.rglstudio.myapplication.reordermenu.helper.OnStartDragListener;
 
 import java.util.Collections;
 import java.util.List;
